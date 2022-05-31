@@ -8,7 +8,8 @@ Ce repository aborde UNIQUEMENT le thème de la gestion du crédit des création
 En ajoutant votre ressource à ce repository GitHub, vous autorisez l'association Vesperae Studio, "owner" de ce repository, de faire usage de celle-ci, pour l'ensemble de ses projets, et ce grâce aux fonctionnalités inhérentes de l'outil GitHub pour lesquelles vous avez adhéré aux CGU.
 
 Si votre ressource incorpore des licences particulières, vous pouvez les soumettre en joignant un fichier texte au même nom avec l'extension ".licence". 
-Sinon la licence pour votre contribution de type média sera considéré par défaut comme équivalente à "[Creative Commons CC0](https://choosealicense.com/licenses/cc0-1.0/)" en terme de possibilité sans la partie "libre". Cette considération ne vous retire pas votre propriété intellectuel et ne vous engage pas dans un usage exclusif vis à vis de l'association, il s'agit d'une autorisation.  
+Sinon la licence pour votre contribution de type média sera considéré par défaut comme équivalente à "[Creative Commons CC0](https://choosealicense.com/licenses/cc0-1.0/)" en terme de possibilité sans la partie "libre". Cette considération ne vous retire pas votre propriété intellectuel et ne vous engage pas dans un usage exclusif vis à vis de l'association, il s'agit d'une autorisation, à titre gratuit, valable de manière permanente tant que nous respectons nos engagements décris dans la section suivante vis à vis de vous. 
+
 Nous vous invitons à prendre connaissance des détails en matière de [licence juridique dans le domaine des projets contributifs](https://choosealicense.com/) et à lire les engagements de l'association.
 
 
