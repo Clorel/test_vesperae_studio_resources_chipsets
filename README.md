@@ -23,8 +23,7 @@ Cette structuration permet :
 
 Le fichier LICENCE.txt que nous nous engageons de réaliser pour nos projets, seront des concaténations hierarchisé de tous les fichiers licences utilisés en ressources externes (codes et médias).
 - chaque licence liée à une ressource ayant notifié son adhésion au repository aura une mention précédant sa licence "L'auteur autorise l'organisation à but non lucratif Vespedia Studio, localisée en france, d'utiliser cette resssource".
-- 
-La licence relatif au projet en lui même sera aposé en amont et aborderons ces mentions :
+- la licence relatif au projet délivré,  sera aposé en amont du fichier LICENCE.txt et aborderons ces mentions :
 
 ```
 Ecrire des mentions très généralistes ou sinon aucune
