@@ -16,7 +16,7 @@ Nous vous invitons à prendre connaissance des détails en matière de [licence 
 
 Cette structuration permet :
 - établir une association de ressources/auteurs afin de générer un fichier de type "Credits.txt" à chaque fois qu'ils seront utilisés, afin de créditer nos contributeurs.
-- délivrer un fichier de LICENCE.txt (considéré comme norme international de droit juridique en informatique) exaustif sur toutes les réutilisations de ressources de code et de média pour ses projets. Ce fichier sera délivré sur le disque pour les logiciels installés et par les CGU pour les logiciels web.
+- délivrer un fichier de LICENCE.txt (considéré comme norme international de droit juridique en informatique) exaustif sur toutes les réutilisations de ressources de code et de média pour ses projets. Ce fichier sera délivré sur le disque pour les logiciels installés ou tout autre support adapté au produit (CGU pour site web)..
 - protéger d'une manière plus profonte le droit d'auteur des contributeurs en laissant davantage la possibilité d'être contacté par des tiers par l'intermédiaire de GitHub (une plateforme internationale et de référence). En effet nos logiciels ont la responsabilité de mettre en avant vos contributions et c'est possible que celle-ci suscitent de l'intérêt.
 
 ## Structuration du fichier LICENCE.txt
