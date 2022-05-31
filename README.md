@@ -2,14 +2,14 @@
 
 ## Présentation
 Vesperae Studio est une association française à but non lucratif (plus d'informations sur [vesperaestudio.fr](https://vesperaestudio.fr)) en charge de la gestion de plusieurs projets vidéo-ludique comme [Slayers Online](https://slayersonline.net) ou Slayers Online Reborn.
-Ce repository aborde UNIQUEMENT le thème de la gestion du droit d'auteur.
+Ce repository aborde UNIQUEMENT le thème de la gestion du crédit des créations et la gestion des licences de propriété intellectuel.
 
 ## Explication
 En ajoutant votre ressource à ce repository GitHub, vous autorisez l'association Vesperae Studio, "owner" de ce repository, de faire usage de celle-ci, pour l'ensemble de ses projets, et ce grâce aux fonctionnalités inhérentes de l'outil GitHub pour lesquelles vous avez adhéré aux CGU.
 
 Si votre ressource incorpore des licences particulières, vous pouvez les soumettre en joignant un fichier texte au même nom avec l'extension ".licence". 
-Sinon la licence pour votre contribution sera considéré par défaut "[Creative Commons CC0](https://choosealicense.com/licenses/cc0-1.0/)" pour du média. Cette licence ne vous retire pas votre propriété intellectuel, bien entendu. 
-Nous vous invitons à prendre connaissance des détails en matière de [licence juridique dans le domaine des projets contributifs](https://choosealicense.com/) et à lire les engagements de l'association
+Sinon la licence pour votre contribution de type média sera considéré par défaut comme équivalente à "[Creative Commons CC0](https://choosealicense.com/licenses/cc0-1.0/)" en terme de possibilité sans la partie "libre". Cette considération ne vous retire pas votre propriété intellectuel et ne vous engage pas dans un usage exclusif vis à vis de l'association, il s'agit d'une autorisation.  
+Nous vous invitons à prendre connaissance des détails en matière de [licence juridique dans le domaine des projets contributifs](https://choosealicense.com/) et à lire les engagements de l'association.
 
 
 ## Engagement de l'association
