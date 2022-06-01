@@ -45,6 +45,8 @@ EN DEHORS OU EN RELATION AVEC LE LOGICIEL OU L'UTILISATION OU D'AUTRES TRANSACTI
 LOGICIEL.
 ```
 
+- Ces mentions pourront être traduite vers d'autres langues, comme l'anglais.
+
 
 
 ## Contact :
