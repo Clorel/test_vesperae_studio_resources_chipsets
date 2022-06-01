@@ -23,7 +23,7 @@ Cette structuration permet :
 ## Structuration du fichier LICENCE.txt
 
 Le fichier LICENCE.txt que nous nous engageons de réaliser pour nos projets, seront des concaténations hierarchisées de tous les fichiers licences utilisés en ressources externes (codes et médias).
-- chaque licence liée à une ressource ayant notifié son adhésion au répertoire aura une mention précédant sa licence "L'auteur autorise l'organisation à but non lucratif Vespedia Studio, localisée en France, d'utiliser cette resssource exprimé par une adhésion au projet contributif sur GitHub".
+- chaque licence liée à une ressource ayant notifié son adhésion au répertoire aura une mention précédant sa licence "L'auteur autorise l'organisation à but non lucratif Vespedia Studio, localisée en France, d'utiliser cette resssource, à titre gratuit, exprimé par une adhésion au projet contributif sur GitHub et ce de manière permenante, tant que les engagements de l'adhésion sont respectés par l'association".
 - la licence relative aux projets délivrés, soumise au copyright, sera aposée en amont du fichier LICENCE.txt et aborderont non exhaustivement ces mentions (reprise des licences de type GNU) :
 
 ```
