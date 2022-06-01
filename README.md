@@ -25,7 +25,14 @@ Cette structuration permet :
 
 Le fichier LICENCE.txt que nous nous engageons de réaliser pour nos projets, seront des concaténations hierarchisées de tous les fichiers licences utilisés en ressources externes.
 - Chaque sous-licence liée à sa ressource ayant adhéré au fiche de LICENCE.txt sera précédée de la mention suivante 
-```"L'auteur autorise l'organisation à but non lucratif Vespedia Studio, localisée en France, d'utiliser cette resssource, à titre gratuit, exprimé par une adhésion au projet contributif sur GitHub et ce de manière permenante, tant que les engagements de l'adhésion sont respectés par l'association"```
+
+```
+L'AUTEUR AUTORISE L'ORGANISATION À BUT NON LUCRATIF "VESPEDIA STUDIO",
+LOCALISÉE EN FRANCE, D'UTILISER CETTE RESSSOURCE, À TITRE GRATUIT,
+EXPRIMÉ PAR UNE ADHÉSION AU PROJET CONTRIBUTIF SUR GITHUB ET CE DE MANIÈRE PERMENANTE,
+TANT QUE LES ENGAGEMENTS DE L'ADHÉSION SONT RESPECTÉS PAR L'ASSOCIATION
+```
+
 - La licence de chaque projet liée à l'association, soumise aux droits d'auteur, sera aposée en amont du fichier LICENCE.txt et abordera non exhaustivement ces mentions (reprise des licences de type GNU) :
 
 ```
