@@ -23,7 +23,7 @@ Cette structuration permet :
 
 ## Structure du fichier LICENCE.txt
 
-Le fichier LICENCE.txt que nous nous engageons de réaliser pour nos projets, seront des concaténations hierarchisées de tous les fichiers licences utilisés en ressources externes.
+Le fichier LICENCE.txt que nous nous engageons de réaliser pour nos projets, seront des concaténations hierarchisées de tous les fichiers licences utilisés en ressources externes. Ce qui suit est en français mais les licences seront reproduites dans d'autres langues, notamment l'anglais.
 - Chaque sous-licence liée à sa ressource ayant adhéré au fiche de LICENCE.txt sera précédée de la mention suivante 
 
 ```
@@ -44,8 +44,6 @@ RESPONSABILITÉ, QUE CE SOIT DANS UNE ACTION CONTRACTUELLE, DÉLICTUELLE OU AUTR
 EN DEHORS OU EN RELATION AVEC LE LOGICIEL OU L'UTILISATION OU D'AUTRES TRANSACTIONS DANS LE
 LOGICIEL.
 ```
-
-- Ces mentions pourront être traduite vers d'autres langues, comme l'anglais.
 
 
 
