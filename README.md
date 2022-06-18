@@ -47,9 +47,9 @@ LOGICIEL.
 
 
 ## Aides (en construction):
-- Exemple d'un fichier CREDIT.txt généré : visitez CREDIT.TXT
-- Exemple d'un fichier LICENCE.txt généré : visitez LICENCE.TXT
+- Exemple d'un fichier CREDIT.txt généré : CREDIT.TXT
+- Exemple d'un fichier LICENCE.txt généré : LICENCE.TXT
 - Exemple d'un fichier déposé sans .licence : Tinhis.png
-- Exemple d'un fichier .licence déposé : visitez Delicious.png.licence
-- Foire aux questions : visitez FAQ.md
+- Exemple d'un fichier .licence déposé : Delicious.png.licence
+- Foire aux questions : FAQ.md
 - Contact : contact@VesperaeStudio.fr
