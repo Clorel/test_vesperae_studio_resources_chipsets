@@ -47,9 +47,9 @@ LOGICIEL.
 
 
 ## Aides (en construction):
-Exemple d'un fichier déposé sans .licence : Tinhis.png
-Exemple d'un fichier .licence déposé : visitez ce Delicious.png.licence.
-Exemple d'un fichier LICENCE.txt généré : visitez ce LICENCE.TXT.
-Exemple d'un fichier CREDIT.txt généré : visitez ce CREDIT.TXT.
-Foire aux questions : visitez FAQ.md.
-Contact : contact@VesperaeStudio.fr
+- Exemple d'un fichier CREDIT.txt généré : visitez CREDIT.TXT
+- Exemple d'un fichier LICENCE.txt généré : visitez LICENCE.TXT
+- Exemple d'un fichier déposé sans .licence : Tinhis.png
+- Exemple d'un fichier .licence déposé : visitez Delicious.png.licence
+- Foire aux questions : visitez FAQ.md
+- Contact : contact@VesperaeStudio.fr
