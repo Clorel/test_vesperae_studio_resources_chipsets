@@ -17,7 +17,7 @@ Nous vous invitons à prendre connaissance des détails en matière de [licence 
 ## Engagement de l'association
 
 Cette structuration permet :
-- D'établir une association de ressources/auteurs afin de générer un fichier de type "Credits.txt" à chaque fois qu'ils seront utilisés, afin de créditer nos contributeurs,
+- D'établir une association de ressources/auteurs afin de générer un fichier de type "CREDIT.txt" à chaque fois qu'ils seront utilisés, afin de créditer nos contributeurs,
 - De générer un fichier de LICENCE.txt (considéré comme norme internationalle de droit juridique en informatique) exhaustif pour chaque création (jeu, site web, ...). Ce fichier listera chaque sous-licence reliée à sa ressource associée : logiciel, chipset, média, texte, ...
 - De protéger d'une manière plus profonde les droits d'auteur des contributeurs. Vous aurez le cas échéant l'opportunité d'être contacté par des tiers par l'intermédiaire de GitHub (une plateforme internationale et de référence) vis à vis de vos contributions qui pourront éventuellement susciter de l'intérêt pour d'autres sujets non affiliés à Vesperae Studio. 
 
