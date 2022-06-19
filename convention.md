@@ -17,6 +17,7 @@ Contraintes d'organisation :
 - chipset de monstre : monstre_lapin.png
 - chipset contenant un ou des pnj : pnj_herodontos.png
 - chipset de type effet : effet_brouillard.png
+- chipset d'animation : anim_bulle_eau.png
 - chipset de background : fond_coucher_soleil.png
 - chipset de magie : magie_boule_feu.png
 - chipset d'emote : emote_noel_1250.png
@@ -24,6 +25,7 @@ Contraintes d'organisation :
 - chipset de skin portable : NomLibreAuCreateur.png (soumis aux règles de SkinSO)
 - chipset de type interface : interface_menu.png
 - chipset de carte : chipset_foret_01.png, chipset_foret_sombre.png, chipset_grotte_vesperae.png, chipset_desert_solipha.png
+- chipset de carte mixte (chipset + présence d'anim, pnj, etc.) : même logique qu'un chipset mais il faut explicitement nommer avec le lieu
 - musique de jeu : musique_combat_01.midi, musique_combat_sombre.midi, musique_grotte_vesperae.midi, musique_desert_solipha.midi
 - son du jeu : son_epee_01.wav, son_cloche_enervante.wav, son_grotte_vesperae.wav, son_desert_solipha.wav
 
