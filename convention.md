@@ -38,7 +38,7 @@ Veuillez vous référer à l'exemple [Shyran.png.product](Shyran.png.product). R
 - Le fichier ".licence" doit avoir un contenu de type texte encodé en UTF-8.
 - Le fichier pour être accepter doit comporter le même nom que la ressource avec la concaténation de l'extension ".licence"
 - Des méta informations peuvent y être apporter grâce à du balisage XML. Veuillez vous référer à l'exemple [Delicious.png.licence](Delicious.png.licence).
-- Tout ce qui n'est pas balisé, sera déposé tel quel dans la section licence pour le fichier concerné. Veuillez vous référer à l'exemple [Sathis.png.licence](Sathis.png.licence).
+- Tout ce qui n'est pas balisé, sera déposé tel quel dans la section licence pour le fichier concerné. Veuillez vous référer à l'exemple [Sathisien.png.licence](Sathisien.png.licence).
 
 ## Règles d'ajout de fichier ".product" :
 - Le fichier ".product" doit avoir un contenu de type texte encodé en UTF-8.
