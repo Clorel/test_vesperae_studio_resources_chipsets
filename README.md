@@ -64,4 +64,5 @@ NOMS DES OEUVRES ORIGINELS
 - Exemple d'un fichier .licence déposé : Delicious.png.licence
 - Foire aux questions : FAQ.md
 - Logique de nommage des contributions : convention.md
+- Tutorial GitHub : tutorial.md
 - Contact : contact@VesperaeStudio.fr
