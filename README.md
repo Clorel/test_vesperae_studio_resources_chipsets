@@ -16,10 +16,10 @@ Nous vous invitons à prendre connaissance des détails en matière de [licence 
 
 ## Engagement de l'association
 
-Cette structuration permet :
+Cette structuration permet 
 - D'établir une association de ressources/auteurs afin de générer un fichier de type "CREDIT.txt" à chaque fois qu'ils seront utilisés, afin de créditer nos contributeurs,
 - De générer un fichier de LICENCE.txt (considéré comme norme internationalle de droit juridique en informatique) exhaustif pour chaque création (jeu, site web, ...). Ce fichier listera chaque sous-licence reliée à sa ressource associée : logiciel, chipset, média, texte, ...
-- De protéger d'une manière plus profonde les droits d'auteur des contributeurs. Vous aurez le cas échéant l'opportunité d'être contacté par des tiers par l'intermédiaire de GitHub (une plateforme internationale et de référence) vis à vis de vos contributions qui pourront éventuellement susciter de l'intérêt pour d'autres sujets non affiliés à Vesperae Studio. 
+- De protéger d'une manière plus profonde les droits d'auteur des contributeurs. Vous aurez le cas échéant l'opportunité d'être contacté par des tiers par l'intermédiaire de GitHub (une plateforme internationale et de référence) vis à vis de vos contributions qui pourront éventuellement susciter de l'intérêt pour d'autres sujets non affiliés à Vesperae Studio.
 
 ## Structure du fichier LICENCE.txt
 
@@ -43,6 +43,15 @@ LES AUTEURS OU LES DÉTENTEURS DU COPYRIGHT SERONT RESPONSABLES DE TOUTE RÉCLAM
 RESPONSABILITÉ, QUE CE SOIT DANS UNE ACTION CONTRACTUELLE, DÉLICTUELLE OU AUTRE, RÉSULTANT DE,
 EN DEHORS OU EN RELATION AVEC LE LOGICIEL OU L'UTILISATION OU D'AUTRES TRANSACTIONS DANS LE
 LOGICIEL.
+```
+
+```
+LE LOGICIEL EST FOURNI "TEL QUEL", SANS GARANTIE D'AUCUNE SORTE, QUI PEUT 
+POURRAIT APPORTER DES ALTERATIONS DES FICHIERS RESSOURCES POUR LEQUEL 
+IL TE POURRAIT ETRE TENU RESPONSABLE. 
+LE NOM DES FICHIERS RESSOURCES N'EST PAS NECESSAIREMENT FIGE,
+IL EST NECESSAIRE DE SE REFERER AU FICHIER DE LICENCE POUR CONNAITRE LES 
+NOMS DES OEUVRES ORIGINELS
 ```
 
 
