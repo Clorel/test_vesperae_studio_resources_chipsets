@@ -60,7 +60,7 @@ NOMS DES OEUVRES ORIGINELS
 ## Aides (en construction):
 - Exemple d'un fichier CREDIT.txt généré : [CREDIT.txt](CREDIT.txt)
 - Exemple d'un fichier LICENCE.txt généré : [LICENCE.txt](LICENCE.txt)
-- Exemple d'un fichier déposé sans .licence : Tinhis.png
+- Exemple d'un fichier déposé sans .licence : [Tinhis.png](Tinhis.png)
 - Exemple d'un fichier .licence déposé : [Delicious.png.licence](Delicious.png.licence)
 - Exemple d'un fichier .product déposé : [Shyran.png.product](Delicious.png.product)
 - Foire aux questions : [FAQ.md](FAQ.md)
