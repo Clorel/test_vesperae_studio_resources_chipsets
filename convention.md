@@ -25,10 +25,10 @@ Contraintes d'organisation :
 - chipset de skin portable : NomLibreAuCreateur.png (soumis aux règles de SkinSO)
 - chipset de type interface : interface_menu.png
 - chipset de carte : chipset_foret_01.png, chipset_foret_sombre.png, chipset_grotte_vesperae.png, chipset_desert_solipha.png
-- chipset de carte mixte (chipset + présence d'anim, pnj, etc.) : chipset_sarosa.png, chipset_chateau_roland.png
-(c'est comme un chipset normal mais il faut préciser le lieu dans le cas d'un chipset mixte car très localisé)
 - musique de jeu : musique_combat_01.midi, musique_combat_sombre.midi, musique_grotte_vesperae.midi, musique_desert_solipha.midi
 - son du jeu : son_epee_01.wav, son_cloche_enervante.wav, son_grotte_vesperae.wav, son_desert_solipha.wav
+- chipset de carte mixte (chipset + présence d'anim, pnj, etc.) : chipset_sarosa.png, chipset_chateau_roland.png
+(c'est comme un chipset normal mais il faut préciser le lieu dans le cas d'un chipset mixte car très localisé)
 
 ```
 - Les fichiers de ressources connus comme ayant plusieurs auteurs mais insérés sans fichier licence seront documentés par nos soins avec un ajout de fichier annexe avec l'extension ".product".
