@@ -63,4 +63,5 @@ NOMS DES OEUVRES ORIGINELS
 - Exemple d'un fichier déposé sans .licence : Tinhis.png
 - Exemple d'un fichier .licence déposé : Delicious.png.licence
 - Foire aux questions : FAQ.md
+- Logique de nommage des contributions : convention.md
 - Contact : contact@VesperaeStudio.fr
