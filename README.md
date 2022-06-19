@@ -58,8 +58,8 @@ NOMS DES OEUVRES ORIGINELS
 
 
 ## Aides (en construction):
-- Exemple d'un fichier CREDIT.txt généré : CREDIT.TXT
-- Exemple d'un fichier LICENCE.txt généré : LICENCE.TXT
+- Exemple d'un fichier CREDIT.txt généré : CREDIT.txt
+- Exemple d'un fichier LICENCE.txt généré : LICENCE.txt
 - Exemple d'un fichier déposé sans .licence : Tinhis.png
 - Exemple d'un fichier .licence déposé : Delicious.png.licence
 - Foire aux questions : FAQ.md
