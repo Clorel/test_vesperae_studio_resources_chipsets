@@ -2,6 +2,7 @@
 - Vous devez être l'auteur de la ressource pour l'ajouter au repository.
 - Le nom de la ressource doit respecter la convention de nommage imposée par Vesperae Studio :
 ```
+Contraintes technique :
 - Pas de caractère spéciaux de type apostrophe ou symbole (ex: ', ", €, etc. )
 - Pas d'espace entre les mots, on les remplace par un underscore “_” (→ hall_arene)
 - Pas de fautes d'orthographe dans le nom
@@ -10,17 +11,34 @@
 - Aucune majuscule sur vos noms de fichiers.
 - Pas de caractère avec accent (é, è, ê, ë, à, …)
 Exception : Les noms de skin et les noms de son n'ont pas ces obligations mais c'est une préférence.
+
+Contraintes d'organisation :
+- chipset de boss : boss_drake.png 
+- chipset de monstre : monstre_lapin.png
+- chipset contenant un ou des pnj : pnj_herodontos.png
+- chipset de type effet : effet_brouillard.png
+- chipset de background : fond_coucher_soleil.png
+- chipset de magie : magie_boule_feu.png
+- chipset d'emote : emote_noel_1250.png
+- chipset objets de décors : objet_cadeaux.png
+- chipset de skin portable : NomLibreAuCreateur.png (soumis aux règles de SkinSO)
+- chipset de type interface : interface_menu.png
+- chipset de carte : chipset_foret_01.png, chipset_foret_sombre.png, chipset_grotte_vesperae.png, chipset_desert_solipha.png
+- musique de jeu : musique_combat_01.midi, musique_combat_sombre.midi, musique_grotte_vesperae.midi, musique_desert_solipha.midi
+- son du jeu : son_epee_01.wav, son_cloche_enervante.wav, son_grotte_vesperae.wav, son_desert_solipha.wav
+
 ```
 - Les fichiers de ressources connus comme ayant plusieurs auteurs mais insérés sans fichier licence seront documentés par nos soins avec un ajout de fichier annexe avec l'extension ".product".
-Veuillez vous référer à l'exemple "Shyran.png.product". Rien ne vous en empêche de le faire vous même lors de votre ajout.
+Veuillez vous référer à l'exemple [Shyran.png.product](Shyran.png.product). Rien ne vous en empêche de le faire vous même lors de votre ajout.
 
 ## Règles d'ajout de fichier ".licence" :
 - Le fichier ".licence" doit avoir un contenu de type texte encodé en UTF-8.
 - Le fichier pour être accepter doit comporter le même nom que la ressource avec la concaténation de l'extension ".licence"
-- Des méta informations peuvent y être apporter grâce à du balisage XML. Veuillez vous référer à l'exemple Delicious.png.licence.
-- Tout ce qui n'est pas balisé, sera déposé tel quel dans la section licence pour le fichier concerné.
+- Des méta informations peuvent y être apporter grâce à du balisage XML. Veuillez vous référer à l'exemple [Delicious.png.licence](Delicious.png.licence).
+- Tout ce qui n'est pas balisé, sera déposé tel quel dans la section licence pour le fichier concerné. Veuillez vous référer à l'exemple [Sathis.png.licence](Sathis.png.licence).
 
 ## Règles d'ajout de fichier ".product" :
 - Le fichier ".product" doit avoir un contenu de type texte encodé en UTF-8.
 - Le fichier pour être accepter doit comporter le même nom que la ressource avec la concaténation de l'extension ".product"
-- Des méta informations peuvent y être apporter grâce à du balisage XML. Veuillez vous référer à l'exemple Shyran.png.product.
+- Des méta informations peuvent y être apporter grâce à du balisage XML. Veuillez vous référer à l'exemple [Shyran.png.product](Shyran.png.product).
+- Tout ce qui n'est pas balisé, sera ignoré.
