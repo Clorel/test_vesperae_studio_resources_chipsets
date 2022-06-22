@@ -30,7 +30,7 @@ Contraintes d'organisation :
 - chipset de carte mixte (chipset + présence d'anim, pnj, etc.) : chipset_sarosa.png, chipset_chateau_roland.png
 (c'est comme un chipset normal mais il faut préciser le lieu dans le cas d'un chipset mixte car très localisé)
 - chipset de carte en pixel art : chipset_sarosa.png, chipset_chateau_roland.png. (c'est comme un chipset normal mais il faut préciser le lieu dans le cas d'un chipset très localisé)
-(\!/ Attention : ce type de mapping est à utiliser avec parcimonie, les fichiers de mapping et chipset sans les effets de pixel art pourrait être exigé car nécessairement à la maintenance des cartes \!/)
+(\!/ Attention : ce type de mapping est à utiliser avec parcimonie, les fichiers de mapping et chipset sans les effets de pixel art pourraient être exigés car nécessaire à la maintenance des cartes \!/)
 
 ```
 - Les fichiers de ressources connus comme ayant plusieurs auteurs mais insérés sans fichier licence seront documentés par nos soins avec un ajout de fichier annexe avec l'extension ".product".
