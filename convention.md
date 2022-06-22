@@ -29,6 +29,7 @@ Contraintes d'organisation :
 - son du jeu : son_epee_01.wav, son_cloche_enervante.wav, son_grotte_vesperae.wav, son_desert_solipha.wav
 - chipset de carte mixte (chipset + présence d'anim, pnj, etc.) : chipset_sarosa.png, chipset_chateau_roland.png
 (c'est comme un chipset normal mais il faut préciser le lieu dans le cas d'un chipset mixte car très localisé)
+- chipset de carte en pixel art : chipset_sarosa.png, chipset_chateau_roland.png. (c'est comme un chipset normal mais il faut préciser le lieu dans le cas d'un chipset très localisé)
 
 ```
 - Les fichiers de ressources connus comme ayant plusieurs auteurs mais insérés sans fichier licence seront documentés par nos soins avec un ajout de fichier annexe avec l'extension ".product".
