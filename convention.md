@@ -1,4 +1,4 @@
-## Règles d'ajout de fichier ressources : ".png", ".ogg", ".midi", ".wav", etc. :
+## Règles d'ajout de fichier ressources 
 - Vous devez être l'auteur de la ressource pour l'ajouter au répertoire GitHub.
 - Le nom de la ressource doit respecter la convention de nommage imposée par Vesperae Studio : [Convention de nommage des fichiers](convention_naming.md)
 
