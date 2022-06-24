@@ -43,7 +43,7 @@ VOTRE LICENCE PERSONNALISEE
 - Le fichier ".product" doit avoir un contenu de type texte encodé en UTF-8.
 - Le fichier pour être accepté doit comporter le même nom que la ressource avec la concaténation de l'extension ".product"
 - Des méta informations peuvent y être apportées grâce à du balisage XML. Veuillez vous référer à l'exemple [Shyran.png.product](Shyran.png.product).
-- Tout ce qui n'est pas balisé, sera ignoré.
+- Tout ce qui n'est pas balisé, sera ignoré à la génération du fichier LICENCE.txt.
 
 ## Informations sur le balisage :
 - <Name></Name> Définit le nom de la ressource. Ils figureront dans les fichiers [CREDIT.txt](CREDIT.txt) et [LICENCE.txt](LICENCE.txt).
