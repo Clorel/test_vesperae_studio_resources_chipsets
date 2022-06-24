@@ -33,22 +33,29 @@ Contraintes d'organisation :
 (\!/ Attention : ce type de mapping est à utiliser avec parcimonie, les fichiers de mapping et chipset sans les effets de pixel art pourraient être exigés car nécessaire à la maintenance des cartes \!/)
 
 ```
-- Les fichiers de ressources connus comme ayant plusieurs auteurs mais insérés sans fichier licence seront documentés par nos soins avec un ajout de fichier annexe avec l'extension ".product". La licence appliquée par défaut sera comme équivalente à "[Creative Commons CC0](https://choosealicense.com/licenses/cc0-1.0/)" en terme de possibilités sans la partie "libre", seul les parties 1 et 4 seront reprises.
+- Les fichiers de ressources connus comme ayant plusieurs auteurs mais insérés sans fichier licence seront documentés par nos soins avec un ajout de fichier annexe avec l'extension ".product".
 Veuillez vous référer à l'exemple [Shyran.png.product](Shyran.png.product). Rien ne vous en empêche de le faire vous même lors de votre ajout.
+- Les fichiers sans fichier associée avec le format ".licence". Auront pour mention dans le fichier LICENCE.TXT généré :
+
+```
+CETTE PRODUCTION ARTISTIQUE EST SOUMISE AU DROIT D'AUTEUR ET L'AUTEUR DE CELLE-CI AUTORISE EXPRESSÉMENT L'ASSOCIATION VESPERAE STUDIO À L'UTILISER
+DANS SES PROJETS DANS LES MÊMES CONDITIONS, PERMISSIONS ET AUTORISATIONS QUUE L'ASSOCIATION AURAIT SI L'AUTEUR AVAIT ABANDONNÉ SES DROITS 
+D'AUTEURS À TRAVERS LA LICENCE CREATIVE COMMONS CC0.
+```
 
 ## Règles d'ajout de fichier ".licence" :
 - Le fichier ".licence" doit avoir un contenu de type texte encodé en UTF-8.
-- Le fichier pour être accepter doit comporter le même nom que la ressource avec la concaténation de l'extension ".licence"
-- Des méta informations peuvent y être apporter grâce à du balisage XML. Veuillez vous référer à l'exemple [Delicious.png.licence](Delicious.png.licence).
+- Le fichier pour être accepté doit comporter le même nom que la ressource avec la concaténation de l'extension ".licence"
+- Des méta informations peuvent y être apportées grâce à du balisage XML. Veuillez vous référer à l'exemple [Delicious.png.licence](Delicious.png.licence).
 - Tout ce qui n'est pas balisé, sera déposé tel quel dans la section licence pour le fichier concerné. Veuillez vous référer à l'exemple [Sathisien.png.licence](Sathisien.png.licence).
-- Le contenu de la licence doit être réaliste vis à vis de son projet d'insertion dans nos projets (on ne peut pas accepter une licence qui autorise l'utilisation de la skin sur le jeu Slayers Online et non sur le site Slayers Online)
 - Les contenus des balises de licence qui ne comportent aucune notion d'autorisations / conditions / limites, ne seront pas acceptés et seront redirigés vers la création d'un fichier ".product".
-- Votre contribution à ce répertoire GitHub suppose que vous souhaiter aider un projet collaboratif, nous vous demanderons alors de réaliser vos contenus de licence de manière à ce que par défaut vous repartez des articles 1 et 4 de la licence de "[Creative Commons CC0](https://choosealicense.com/licenses/cc0-1.0/)" puis vous la modifier pour y apporter vos exclusions.
+- Votre contribution à ce répertoire GitHub suppose que vous souhaiter aider un projet collaboratif, nous vous demanderons alors de rédiger vos contenus de licence de manière à ce que par défaut que l'on cite ce que permet la licence de "[Creative Commons CC0](https://choosealicense.com/licenses/cc0-1.0/)" puis puis vous y apporter vos exclusions, limitations, conditions.
+- Le contenu de la licence doit être réaliste vis à vis de son projet d'insertion dans nos projets (on ne peut pas accepter une licence qui autorise l'utilisation de la skin sur le jeu Slayers Online et non sur le site Slayers Online)
 
 ## Règles d'ajout de fichier ".product" :
 - Le fichier ".product" doit avoir un contenu de type texte encodé en UTF-8.
-- Le fichier pour être accepter doit comporter le même nom que la ressource avec la concaténation de l'extension ".product"
-- Des méta informations peuvent y être apporter grâce à du balisage XML. Veuillez vous référer à l'exemple [Shyran.png.product](Shyran.png.product).
+- Le fichier pour être accepté doit comporter le même nom que la ressource avec la concaténation de l'extension ".product"
+- Des méta informations peuvent y être apportées grâce à du balisage XML. Veuillez vous référer à l'exemple [Shyran.png.product](Shyran.png.product).
 - Tout ce qui n'est pas balisé, sera ignoré.
 
 ## Informations sur le balisage :
