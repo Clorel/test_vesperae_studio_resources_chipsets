@@ -35,7 +35,7 @@ Contraintes d'organisation :
 ```
 - Les fichiers de ressources connus comme ayant plusieurs auteurs mais insérés sans fichier licence seront documentés par nos soins avec un ajout de fichier annexe avec l'extension ".product".
 Veuillez vous référer à l'exemple [Shyran.png.product](Shyran.png.product). Rien ne vous en empêche de le faire vous même lors de votre ajout.
-- Les fichiers sans fichier associée avec le format ".licence". Auront pour mention dans le fichier LICENCE.TXT généré :
+- Les fichiers sans fichier associée avec le format ".licence", auront pour mention dans le fichier LICENCE.TXT généré :
 
 ```
 CETTE PRODUCTION ARTISTIQUE EST SOUMISE AU DROIT D'AUTEUR ET L'AUTEUR DE CELLE-CI AUTORISE EXPRESSÉMENT L'ASSOCIATION VESPERAE STUDIO À L'UTILISER
