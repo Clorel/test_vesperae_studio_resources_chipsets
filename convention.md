@@ -1,6 +1,6 @@
 ## Règles d'ajout de fichier ressources : ".png", ".ogg", ".midi", ".wav", etc. :
-- Vous devez être l'auteur de la ressource pour l'ajouter au repository.
-- Le nom de la ressource doit respecter la convention de nommage imposée par Vesperae Studio : [convention_naming.md](Convention de nommage des fichiers)
+- Vous devez être l'auteur de la ressource pour l'ajouter au répertoire GitHub.
+- Le nom de la ressource doit respecter la convention de nommage imposée par Vesperae Studio : [Convention de nommage des fichiers](convention_naming.md)
 
 - Les fichiers de ressources connus comme ayant plusieurs auteurs mais insérés sans fichier licence seront documentés par nos soins avec un ajout de fichier annexe avec l'extension ".product".
 Veuillez vous référer à l'exemple [Shyran.png.product](Shyran.png.product). Rien ne vous en empêche de le faire vous même lors de votre ajout.
