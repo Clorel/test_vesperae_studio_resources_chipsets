@@ -64,7 +64,7 @@ NOMS DES OEUVRES ORIGINELS
 - Exemple d'un fichier déposé sans .licence : [Tinhis.png](Tinhis.png)
 - Exemple d'un fichier .licence déposé : [Delicious.png.licence](Delicious.png.licence)
 - Exemple d'un fichier .product déposé : [Shyran.png.product](Shyran.png.product)
-- Foire aux questions : [FAQ.md](FAQ.md)
+- Foire aux questions : [FAQ.md](faq.md)
 - Logique de nommage des contributions : [convention.md](convention.md)
 - Tutorial GitHub : [tutorial.md](tutorial.md)
 - Contact : contact@VesperaeStudio.fr
