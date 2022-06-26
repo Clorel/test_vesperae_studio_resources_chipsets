@@ -4,7 +4,7 @@
 
 - Les fichiers de ressources connus comme ayant plusieurs auteurs mais insérés sans fichier licence seront documentés par nos soins avec un ajout de fichier annexe avec l'extension ".product".
 Veuillez vous référer à l'exemple [Shyran.png.product](Shyran.png.product). Rien ne vous en empêche de le faire vous même lors de votre ajout.
-- Les fichiers de ressources que vous ajoutez peuvent être renommées par le propriétaire du répertoire GitHub. Si cela venait à arriver, nous allons préserver votre nom d'origine en modifiant ou créant le fichier ".product" associé.
+- Les fichiers de ressources que vous ajoutez peuvent être renommées par le propriétaire du répertoire GitHub. Si cela venait à arriver, nous allons préserver votre nom d'origine en le balisant dans le champs "name" à votre place.
 - Les fichiers de ressources sans fichier associée avec le format ".licence", auront pour mentions dans le fichier LICENCE.TXT généré :
 ```
 L'AUTEUR AUTORISE L'ORGANISATION À BUT NON LUCRATIF "VESPERAE STUDIO",
@@ -36,7 +36,7 @@ VOTRE LICENCE PERSONNALISEE
 - Tout ce qui n'est pas balisé, sera déposé tel quel dans la section licence pour le fichier concerné. Veuillez vous référer à l'exemple [Sathisien.png.licence](Sathisien.png.licence).
 - Les contenus des balises de licence qui ne comportent aucune notion d'autorisations / conditions / limites, ne seront pas acceptés et seront redirigés vers la création d'un fichier ".product".
 
-## Contenu de la licence
+## Contenu de votre licence personnalisé
 - Votre contribution à ce répertoire GitHub suppose que vous souhaiter aider un projet collaboratif, nous vous demanderons alors de rédiger vos contenus de licence de manière à ce que par défaut que l'on cite ce que permet la licence de "[Creative Commons CC0](https://choosealicense.com/licenses/cc0-1.0/)" puis puis vous y apporter vos exclusions, limitations, conditions.
 - Le contenu de la licence doit être réaliste vis à vis de son projet d'insertion dans nos projets (on ne peut pas accepter une licence qui autorise l'utilisation de la skin sur le jeu Slayers Online et non sur le site Slayers Online)
 
