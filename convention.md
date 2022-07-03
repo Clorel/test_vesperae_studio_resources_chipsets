@@ -31,7 +31,7 @@ VOTRE LICENCE PERSONNALISEE
 ## Règles d'ajout de fichier ".licence" :
 - Le fichier ".licence" doit avoir un contenu de type texte encodé en UTF-8.
 - Le fichier pour être accepté doit comporter le même nom que la ressource avec la concaténation de l'extension ".licence"
-- Des méta informations peuvent y être apportées grâce à du balisage XML. Veuillez vous référer à l'exemple [Delicious.png.licence](Delicious.png.licence).
+- Des méta informations peuvent y être apportées grâce à du balisage XML, elles sont toutes facultatives. Veuillez vous référer à l'exemple [Delicious.png.licence](Delicious.png.licence).
 - Tout ce qui n'est pas balisé, sera déposé tel quel dans la section licence pour le fichier concerné. Veuillez vous référer à l'exemple [Sathisien.png.licence](Sathisien.png.licence).
 - Les contenus des balises de licence qui ne comportent aucune notion d'autorisations / conditions / limites, ne seront pas acceptés et seront redirigés vers la création d'un fichier ".product".
 
@@ -42,7 +42,7 @@ VOTRE LICENCE PERSONNALISEE
 ## Règles d'ajout de fichier ".product" :
 - Le fichier ".product" doit avoir un contenu de type texte encodé en UTF-8.
 - Le fichier pour être accepté doit comporter le même nom que la ressource avec la concaténation de l'extension ".product"
-- Des méta informations peuvent y être apportées grâce à du balisage XML. Veuillez vous référer à l'exemple [Shyran.png.product](Shyran.png.product).
+- Des méta informations peuvent y être apportées grâce à du balisage XML, elles sont toutes facultatives. Veuillez vous référer à l'exemple [Shyran.png.product](Shyran.png.product).
 - Tout ce qui n'est pas balisé, sera ignoré à la génération du fichier LICENCE.txt.
 
 ## Informations sur le balisage :
