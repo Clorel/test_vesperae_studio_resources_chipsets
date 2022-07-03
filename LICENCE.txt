@@ -1,0 +1,98 @@
+LICENCE D'UTILISATION
+
+=============================================================================================
+Product     :    Slayers Online Reborn MMORPG
+=============================================================================================
+Product :     Slayers Online Reborn MMORPG (website : www.slayersonline.net/)
+Detail  :     general@slayersonline.net
+Authors :     Association Vesperae Studio
+Licence :     Copyright. Tous droits réservés. (website : www.slayersonline.net/licence)
+---
+LE LOGICIEL EST FOURNI "TEL QUEL", SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU
+IMPLICITE, Y COMPRIS, MAIS SANS S'Y LIMITER, LES GARANTIES DE QUALITÉ MARCHANDE,
+ADÉQUATION À UN USAGE PARTICULIER ET ABSENCE DE CONTREFAÇON. EN AUCUN CAS LE
+LES AUTEURS OU LES DÉTENTEURS DU COPYRIGHT SERONT RESPONSABLES DE TOUTE RÉCLAMATION, DOMMAGE OU AUTRE
+RESPONSABILITÉ, QUE CE SOIT DANS UNE ACTION CONTRACTUELLE, DÉLICTUELLE OU AUTRE, RÉSULTANT DE,
+EN DEHORS OU EN RELATION AVEC LE LOGICIEL OU L'UTILISATION OU D'AUTRES TRANSACTIONS DANS LE
+LOGICIEL.
+
+LE LOGICIEL POURRAIT APPORTER DES ALTERATIONS TECHNIQUES DE FICHIERS RESSOURCES 
+LIES AUX FORMATS ET SES DEPENDANCES POUR LEQUEL IL NE POURRAIT ETRE TENU RESPONSABLE.
+
+LE NOM DES FICHIERS RESSOURCES EST UNE FONCTIONNALITE PROPRE AUX SYSTEMES D'INFORMATIONS,
+IL EST NECESSAIRE DE SE REFERER AU FICHIER DE LICENCE.TXT POUR CONNAITRE LES 
+NOMS DES OEUVRES ORIGINELS
+---
+=============================================================================================
+Dependancies of  :    Slayers Online Reborn MMORPG
+=============================================================================================
+=============================================================================================
+Product     :    SoRE engine game
+=============================================================================================
+Product :     SoRE engine game
+Authors :     Imagic
+Use in  :     Slayers Online Reborn MMORPG
+Licence : 
+---
+
+---
+_______________________
+=============================================================================================
+Product     :    Delicious
+=============================================================================================
+Product :     Delicious
+Authors :     Shyran
+Use in  :     Slayers Online Reborn MMORPG
+Licence : 
+---
+L'AUTEUR AUTORISE L'ORGANISATION À BUT NON LUCRATIF "VESPERAE STUDIO",
+LOCALISÉE EN FRANCE, D'UTILISER CETTE RESSOURCE, À TITRE GRATUIT,
+EXPRIMÉE PAR UNE ADHÉSION AU PROJET CONTRIBUTIF SUR GITHUB ET CE DE MANIÈRE PERMANENTE,
+TANT QUE LES ENGAGEMENTS DE L'ADHÉSION SONT RESPECTÉS PAR L'ASSOCIATION
+---
+VOICI LA LICENCE DE L'AUTEUR :
+Copyright Shyran
+Cette production artistique est soumise au droit d'auteur et j'autorise expressément l'association Vesperae Studio à l'utiliser dans ses projets dans les
+mêmes conditions, permissions et autorisations que l'association aurait si j'avais abandonné mes droits d'auteurs à travers la licence Creative Commons CC0.
+Toutes les autres demandes d'autorisation doivent être effectuées via GitHub.
+---
+_______________________
+=============================================================================================
+Product     :    Sathisien
+=============================================================================================
+Product :     Sathisien
+Authors :     Nera-Inferna / Sloreno / Shyran
+Use in  :     Slayers Online Reborn MMORPG
+Licence : 
+---
+L'AUTEUR AUTORISE L'ORGANISATION À BUT NON LUCRATIF "VESPERAE STUDIO",
+LOCALISÉE EN FRANCE, D'UTILISER CETTE RESSOURCE, À TITRE GRATUIT,
+EXPRIMÉE PAR UNE ADHÉSION AU PROJET CONTRIBUTIF SUR GITHUB ET CE DE MANIÈRE PERMANENTE,
+TANT QUE LES ENGAGEMENTS DE L'ADHÉSION SONT RESPECTÉS PAR L'ASSOCIATION
+---
+VOICI LA LICENCE DE L'AUTEUR :
+Cette production artistique est soumise au droit d'auteur et j'autorise expressément l'association Vesperae Studio à l'utiliser dans ses projets dans les
+mêmes conditions, permissions et autorisations que l'association aurait si j'avais abandonné mes droits d'auteurs à travers la licence Creative Commons CC0.
+Toutes les autres demandes d'autorisation doivent être effectuées via GitHub.
+---
+_______________________
+=============================================================================================
+Product     :    Tinhis.png
+=============================================================================================
+Product :     Tinhis.png
+Authors :     @Clorel (https://github.com/Clorel)
+Use in  :     Slayers Online Reborn MMORPG
+Licence : 
+---
+L'AUTEUR AUTORISE L'ORGANISATION À BUT NON LUCRATIF "VESPERAE STUDIO",
+LOCALISÉE EN FRANCE, D'UTILISER CETTE RESSOURCE, À TITRE GRATUIT,
+EXPRIMÉE PAR UNE ADHÉSION AU PROJET CONTRIBUTIF SUR GITHUB ET CE DE MANIÈRE PERMANENTE,
+TANT QUE LES ENGAGEMENTS DE L'ADHÉSION SONT RESPECTÉS PAR L'ASSOCIATION
+---
+CETTE PRODUCTION ARTISTIQUE EST SOUMISE AU DROIT D'AUTEUR ET L'AUTEUR DE CELLE-CI AUTORISE
+EXPRESSÉMENT L'ASSOCIATION VESPERAE STUDIO À L'UTILISER DANS SES PROJETS DANS LES MÊMES
+CONDITIONS, PERMISSIONS ET AUTORISATIONS DEFINIT DANS LA LICENCE CREATIVE COMMONS CC0.
+
+---
+_______________________
+_______________________
