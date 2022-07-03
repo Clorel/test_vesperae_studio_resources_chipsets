@@ -47,8 +47,12 @@ VOTRE LICENCE PERSONNALISEE
 
 ## Informations sur le balisage :
 - ```<Name></Name>``` Définit le nom de la ressource. Ils figureront dans les fichiers [CREDIT.txt](CREDIT.txt) et [LICENCE.txt](LICENCE.txt).
-- ```<Author></Author>``` Définit les auteurs de la contribution, vous pouvez utiliser les pseudos ou les noms réels, ils figureront dans les fichiers [CREDIT.txt](CREDIT.txt) et [LICENCE.txt](LICENCE.txt). Le séparateur pour séparer chaque auteur est le caractère ",".
+- ```<Website></Website>``` Définit le lien vers le site de la ressource. Il sera visible dans le fichier [LICENCE.txt](LICENCE.txt).
 - ```<Description></Description>``` Définit une description de la ressource. Il sera visible dans le fichier [LICENCE.txt](LICENCE.txt).
+- ```<Authors></Authors>``` Définit les auteurs de la contribution, vous pouvez utiliser les pseudos ou les noms réels, ils figureront dans les fichiers [CREDIT.txt](CREDIT.txt) et [LICENCE.txt](LICENCE.txt). Le séparateur pour séparer chaque auteur est le caractère ",".
 - ```<CreationDate></CreationDate>``` Définit la date de la création de la ressource. Il sera visible dans le fichier [LICENCE.txt](LICENCE.txt).
+- ```<ConclusionDate></ConclusionDate>``` Définit la date de la fin de la création de la ressource. Il sera visible dans le fichier [LICENCE.txt](LICENCE.txt).
 - ```<Email></Email>``` Définit un email de contact pour la ressource. Il sera visible dans le fichier [LICENCE.txt](LICENCE.txt).
 - ```<Licence></Licence>``` Définit le texte de la licence en langue française ou anglaise. Il sera visible dans le fichier [LICENCE.txt](LICENCE.txt).
+- ```<LicenceName></LicenceName>``` Définit le nom de la licence en langue française ou anglaise. Il sera visible dans le fichier [LICENCE.txt](LICENCE.txt).
+- ```<LicenceWebsite></LicenceWebsite>``` Définit le lien vers le site de la licence en langue française ou anglaise. Il sera visible dans le fichier [LICENCE.txt](LICENCE.txt).
