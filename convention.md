@@ -30,6 +30,7 @@ VOTRE LICENCE PERSONNALISEE
 
 ## Règles d'ajout de fichier ".licence" :
 - Le fichier ".licence" doit avoir un contenu de type texte encodé en UTF-8.
+- Les phrases renseignés ne doivent pas exceder 80/85 caractères de longueur afin de rendre lisible facilement et aisément les contenus sur tous les supports.
 - Le fichier pour être accepté doit comporter le même nom que la ressource avec la concaténation de l'extension ".licence"
 - Des méta informations peuvent y être apportées grâce à du balisage XML, elles sont toutes facultatives. Veuillez vous référer à l'exemple [Delicious.png.licence](Delicious.png.licence).
 - Tout ce qui n'est pas balisé, sera déposé tel quel dans la section licence pour le fichier concerné. Veuillez vous référer à l'exemple [Sathisien.png.licence](Sathisien.png.licence).
@@ -41,6 +42,7 @@ VOTRE LICENCE PERSONNALISEE
 
 ## Règles d'ajout de fichier ".product" :
 - Le fichier ".product" doit avoir un contenu de type texte encodé en UTF-8.
+- Les phrases renseignés ne doivent pas exceder 80/85 caractères de longueur afin de rendre lisible facilement et aisément les contenus sur tous les supports.
 - Le fichier pour être accepté doit comporter le même nom que la ressource avec la concaténation de l'extension ".product"
 - Des méta informations peuvent y être apportées grâce à du balisage XML, elles sont toutes facultatives. Veuillez vous référer à l'exemple [Shyran.png.product](Shyran.png.product).
 - Tout ce qui n'est pas balisé, sera ignoré à la génération du fichier LICENCE.txt.
@@ -48,7 +50,7 @@ VOTRE LICENCE PERSONNALISEE
 ## Informations sur le balisage :
 - ```<Name></Name>``` Définit le nom de la ressource. Ils figureront dans les fichiers [CREDIT.txt](CREDIT.txt) et [LICENCE.txt](LICENCE.txt).
 - ```<Website></Website>``` Définit le lien vers le site de la ressource. Il sera visible dans le fichier [LICENCE.txt](LICENCE.txt).
-- ```<Description></Description>``` Définit une description de la ressource. Il sera visible dans le fichier [LICENCE.txt](LICENCE.txt).
+- ```<Description></Description>``` Définit une description de la ressource. Il sera peut être utilisé ultérieurement sur le site.
 - ```<Authors></Authors>``` Définit les auteurs de la contribution, vous pouvez utiliser les pseudos ou les noms réels, ils figureront dans les fichiers [CREDIT.txt](CREDIT.txt) et [LICENCE.txt](LICENCE.txt). Le séparateur pour séparer chaque auteur est le caractère ",".
 - ```<CreationDate></CreationDate>``` Définit la date de la création de la ressource. Il sera visible dans le fichier [LICENCE.txt](LICENCE.txt).
 - ```<ConclusionDate></ConclusionDate>``` Définit la date de la fin de la création de la ressource. Il sera visible dans le fichier [LICENCE.txt](LICENCE.txt).
