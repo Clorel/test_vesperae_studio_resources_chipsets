@@ -14,6 +14,7 @@ Exception : Les noms de skin et les noms de son n'ont pas ces obligations mais c
 Contraintes d'organisation :
 - chipset de boss : boss_drake.png 
 - chipset de monstre : monstre_lapin.png
+- chipset de jeu de carte : carte_as_de_pique.png
 - chipset contenant un ou des pnj : pnj_herodontos.png
 - chipset de type effet : effet_brouillard.png
 - chipset d'animation : anim_bulle_eau.png
