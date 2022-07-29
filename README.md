@@ -1,7 +1,7 @@
 # <center>Dépot de fichier ressources <br/> à l'usage de Vesperae Studio</center>
 
 ## Présentation
-Vesperae Studio est une association française à but non lucratif, identifiée au RNA avec le numéro W771020554 (plus d'informations sur [vesperaestudio.fr](https://vesperaestudio.fr) : lien en construction), en charge de la gestion de plusieurs projets vidéo-ludique autour d'un univers imaginaire de Vesperae et de ces Slayers, comme [Slayers Online Reborn](https://slayersonline.net).
+Vesperae Studio est une association française à but non lucratif, identifiée au RNA sous le numéro W771020554 (plus d'informations sur [vesperaestudio.fr](https://vesperaestudio.fr) : lien en construction), en charge de la gestion de plusieurs projets vidéo-ludique autour d'un univers imaginaire de Vesperae et de ces Slayers, comme [Slayers Online Reborn](https://slayersonline.net).
 Ce répertoire aborde UNIQUEMENT le thème de la gestion du crédit des créations et la gestion des licences de propriété intellectuelle.
 
 ## Explication
