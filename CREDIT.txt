@@ -1,7 +1,7 @@
 CREDIT
 
 Product :     Slayers Online Reborn MMORPG
-Authors :     Association Vesperae Studio
+Authors :     Association Vesperae Studio (RNA : W771020554)
 
   Product :     SoRE engine game
   Authors :     Imagic

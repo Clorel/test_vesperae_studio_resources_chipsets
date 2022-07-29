@@ -5,7 +5,7 @@ Product     :    Slayers Online Reborn MMORPG
 =============================================================================================
 Product :     Slayers Online Reborn MMORPG (website : www.slayersonline.net/)
 Detail  :     general@slayersonline.net
-Authors :     Association Vesperae Studio
+Authors :     Association Vesperae Studio (RNA : W771020554)
 Licence :     Copyright. Tous droits réservés. (website : www.slayersonline.net/licence)
 ---
 LE LOGICIEL EST FOURNI "TEL QUEL", SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU
@@ -45,15 +45,23 @@ Authors :     Shyran
 Use in  :     Slayers Online Reborn MMORPG
 Licence : 
 ---
-L'AUTEUR AUTORISE L'ORGANISATION À BUT NON LUCRATIF "VESPERAE STUDIO",
-LOCALISÉE EN FRANCE, D'UTILISER CETTE RESSOURCE, À TITRE GRATUIT,
-EXPRIMÉE PAR UNE ADHÉSION AU PROJET CONTRIBUTIF SUR GITHUB ET CE DE MANIÈRE PERMANENTE,
+L'AUTEUR AUTORISE L'ORGANISATION À BUT NON LUCRATIF "VESPERAE STUDIO", LOCALISÉE EN FRANCE
+
+ET ENREIGSTRÉE AU RNA SOUS LE NUMÉRO W771020554, D'UTILISER CETTE RESSOURCE, À TITRE GRATUIT,
+
+EXPRIMÉE PAR UNE ADHÉSION AU PROJET CONTRIBUTIF SUR GITHUB ET CE DE MANIÈRE PERMANENTE,
+
 TANT QUE LES ENGAGEMENTS DE L'ADHÉSION SONT RESPECTÉS PAR L'ASSOCIATION
+
+
 ---
 VOICI LA LICENCE DE L'AUTEUR :
-Copyright Shyran
-Cette production artistique est soumise au droit d'auteur et j'autorise expressément l'association Vesperae Studio à l'utiliser dans ses projets dans les
-mêmes conditions, permissions et autorisations que l'association aurait si j'avais abandonné mes droits d'auteurs à travers la licence Creative Commons CC0.
+Copyright Shyran
+
+Cette production artistique est soumise au droit d'auteur et j'autorise expressément l'association Vesperae Studio à l'utiliser dans ses projets dans les
+
+mêmes conditions, permissions et autorisations que l'association aurait si j'avais abandonné mes droits d'auteurs à travers la licence Creative Commons CC0.
+
 Toutes les autres demandes d'autorisation doivent être effectuées via GitHub.
 ---
 _______________________
@@ -65,14 +73,21 @@ Authors :     Nera-Inferna / Sloreno / Shyran
 Use in  :     Slayers Online Reborn MMORPG
 Licence : 
 ---
-L'AUTEUR AUTORISE L'ORGANISATION À BUT NON LUCRATIF "VESPERAE STUDIO",
-LOCALISÉE EN FRANCE, D'UTILISER CETTE RESSOURCE, À TITRE GRATUIT,
-EXPRIMÉE PAR UNE ADHÉSION AU PROJET CONTRIBUTIF SUR GITHUB ET CE DE MANIÈRE PERMANENTE,
+L'AUTEUR AUTORISE L'ORGANISATION À BUT NON LUCRATIF "VESPERAE STUDIO", LOCALISÉE EN FRANCE
+
+ET ENREIGSTRÉE AU RNA SOUS LE NUMÉRO W771020554, D'UTILISER CETTE RESSOURCE, À TITRE GRATUIT,
+
+EXPRIMÉE PAR UNE ADHÉSION AU PROJET CONTRIBUTIF SUR GITHUB ET CE DE MANIÈRE PERMANENTE,
+
 TANT QUE LES ENGAGEMENTS DE L'ADHÉSION SONT RESPECTÉS PAR L'ASSOCIATION
+
+
 ---
 VOICI LA LICENCE DE L'AUTEUR :
-Cette production artistique est soumise au droit d'auteur et j'autorise expressément l'association Vesperae Studio à l'utiliser dans ses projets dans les
-mêmes conditions, permissions et autorisations que l'association aurait si j'avais abandonné mes droits d'auteurs à travers la licence Creative Commons CC0.
+Cette production artistique est soumise au droit d'auteur et j'autorise expressément l'association Vesperae Studio à l'utiliser dans ses projets dans les
+
+mêmes conditions, permissions et autorisations que l'association aurait si j'avais abandonné mes droits d'auteurs à travers la licence Creative Commons CC0.
+
 Toutes les autres demandes d'autorisation doivent être effectuées via GitHub.
 ---
 _______________________
@@ -84,13 +99,20 @@ Authors :     @Clorel (https://github.com/Clorel)
 Use in  :     Slayers Online Reborn MMORPG
 Licence : 
 ---
-L'AUTEUR AUTORISE L'ORGANISATION À BUT NON LUCRATIF "VESPERAE STUDIO",
-LOCALISÉE EN FRANCE, D'UTILISER CETTE RESSOURCE, À TITRE GRATUIT,
-EXPRIMÉE PAR UNE ADHÉSION AU PROJET CONTRIBUTIF SUR GITHUB ET CE DE MANIÈRE PERMANENTE,
+L'AUTEUR AUTORISE L'ORGANISATION À BUT NON LUCRATIF "VESPERAE STUDIO", LOCALISÉE EN FRANCE
+
+ET ENREIGSTRÉE AU RNA SOUS LE NUMÉRO W771020554, D'UTILISER CETTE RESSOURCE, À TITRE GRATUIT,
+
+EXPRIMÉE PAR UNE ADHÉSION AU PROJET CONTRIBUTIF SUR GITHUB ET CE DE MANIÈRE PERMANENTE,
+
 TANT QUE LES ENGAGEMENTS DE L'ADHÉSION SONT RESPECTÉS PAR L'ASSOCIATION
+
+
 ---
-CETTE PRODUCTION ARTISTIQUE EST SOUMISE AU DROIT D'AUTEUR ET L'AUTEUR DE CELLE-CI AUTORISE
-EXPRESSÉMENT L'ASSOCIATION VESPERAE STUDIO À L'UTILISER DANS SES PROJETS DANS LES MÊMES
+CETTE PRODUCTION ARTISTIQUE EST SOUMISE AU DROIT D'AUTEUR ET L'AUTEUR DE CELLE-CI AUTORISE
+
+EXPRESSÉMENT L'ASSOCIATION VESPERAE STUDIO À L'UTILISER DANS SES PROJETS DANS LES MÊMES
+
 CONDITIONS, PERMISSIONS ET AUTORISATIONS DEFINIT DANS LA LICENCE CREATIVE COMMONS CC0.
 
 ---
