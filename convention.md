@@ -30,10 +30,10 @@ VOTRE LICENCE PERSONNALISEE
 
 ## Règles d'ajout de fichier ".licence" :
 - Le fichier ".licence" doit avoir un contenu de type texte encodé en UTF-8.
-- Les phrases renseignés ne doivent pas exceder 80/85 caractères de longueur afin de rendre lisible facilement et aisément les contenus sur tous les supports.
-- Le fichier pour être accepté doit comporter le même nom que la ressource avec la concaténation de l'extension ".licence"
-- Des méta informations peuvent y être apportées grâce à du balisage XML, elles sont toutes facultatives. Veuillez vous référer à l'exemple [Delicious.png.licence](Delicious.png.licence).
-- Tout ce qui n'est pas balisé, sera déposé tel quel dans la section licence pour le fichier concerné. Veuillez vous référer à l'exemple [Sathisien.png.licence](Sathisien.png.licence).
+- Les phrases renseignées ne doivent pas excéder 80/85 caractères de longueur afin de rendre lisible facilement et aisément les contenus sur l'ensemble des supports.
+- Le fichier pour être accepté, doit comporter le même nom que la ressource avec la concaténation de l'extension ".licence"
+- Des méta-informations peuvent y être apportées grâce à du balisage XML, elles sont toutes facultatives. Veuillez vous référer à l'exemple [Delicious.png.licence](Delicious.png.licence).
+- Tout ce qui n'est pas balisé, sera déposé tel quel dans la section licence pour le fichier concerné. Veuillez-vous référer à l'exemple [Sathisien.png.licence](Sathisien.png.licence).
 - Les contenus des balises de licence qui ne comportent aucune notion d'autorisations / conditions / limites, ne seront pas acceptés et seront redirigés vers la création d'un fichier ".product".
 
 ## Contenu de votre licence personnalisé
