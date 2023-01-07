@@ -5,7 +5,7 @@
 - Les fichiers de ressources connus comme ayant plusieurs auteurs mais insérés sans fichier licence seront documentés par nos soins avec un ajout de fichier annexe avec l'extension ".product".
 Veuillez vous référer à l'exemple [Shyran.png.product](Shyran.png.product). Rien ne vous en empêche de le faire vous même lors de votre ajout.
 - Les fichiers de ressources que vous ajoutez peuvent être renommées par le propriétaire du répertoire GitHub. Si cela venait à arriver, nous allons préserver votre nom d'origine en le balisant dans le champs "name" à votre place.
-- Les fichiers de ressources sans fichier associée avec le format ".licence", auront pour mentions dans le fichier LICENCE.TXT généré :
+- Les fichiers de ressources sans fichier associé avec le format ".licence", auront pour mentions dans le fichier LICENCE.TXT généré :
 ```
 L'AUTEUR AUTORISE L'ORGANISATION À BUT NON LUCRATIF "VESPERAE STUDIO",
 LOCALISÉE EN FRANCE, D'UTILISER CETTE RESSOURCE, À TITRE GRATUIT,
