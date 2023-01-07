@@ -57,14 +57,23 @@ IL EST NECESSAIRE DE SE REFERER AU FICHIER DE LICENCE.TXT POUR CONNAITRE LES
 NOMS DES OEUVRES ORIGINELS
 ```
 
+## Procédure
+Déposez votre ressource dans ce repository à travers un Pull Request pour implicitement adhérer et contribuer au projet.
+Si vous êtes peu à l'aise avec GitHub, vous nous invitons à visiter ce tutoriel : ["Faire un pull request, pas à pas"](tutorial.md)
 
-## Aides (en construction):
+Un Pull Request, pour rappel, n'est pas obligatoirement accepté pour l'intégration au projet, nous vous renseignerons les raisons à chaque fois que cela que cela se produira, que ça soit sur le forme ou sur le fond.
+
+Voici comment nous souhaitons que vous formatez vos fichiers de licences, via des fichiers XML structuré :
+Logique de structuration des contributions : [convention.md](convention.md)
+
+Si vous rencontrez quelconques problèmes nous vous invitons à visiter la Foire aux questions : [FAQ.md](faq.md)
+
+## Exemples
 - Exemple d'un fichier CREDIT.txt généré : [CREDIT.txt](CREDIT.txt)
 - Exemple d'un fichier LICENCE.txt généré : [LICENCE.txt](LICENCE.txt)
 - Exemple d'un fichier déposé sans .licence : [Tinhis.png](Tinhis.png)
 - Exemple d'un fichier .licence déposé : [Delicious.png.licence](Delicious.png.licence)
 - Exemple d'un fichier .product déposé : [Shyran.png.product](Shyran.png.product)
-- Foire aux questions : [FAQ.md](faq.md)
-- Logique de nommage des contributions : [convention.md](convention.md)
-- Tutoriel "Déposer votre ressource sur GitHub, pas à pas" : [tutorial.md](tutorial.md)
-- Contact : contact@VesperaeStudio.fr
+
+## Contact
+contact@VesperaeStudio.fr
